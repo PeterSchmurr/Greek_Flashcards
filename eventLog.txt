@@ -1,1 +1,6 @@
 EventLogCreated -  
+Clicked sentences
+Clicked approveSelections
+Clicked changeSelections
+Clicked sentences
+Clicked approveSelections
