@@ -1,1 +1,2 @@
 EventLogCreated -  
+Clicked changeSelections
